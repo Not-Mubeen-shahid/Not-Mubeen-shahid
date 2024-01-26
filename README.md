@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm MUBEEN</h1>
 <h3 align="center">I'am a student of 10th grade</h3>
-<img align="right"  width="400" src=<p align="left"> <img src="https://thumbs.dreamstime.com/z/computer-programmer-working-his-computer-vector-illustration-39311178.jpg"> </p>
+ <img src="https://thumbs.dreamstime.com/z/computer-programmer-working-his-computer-vector-illustration-39311178.jpg"> </p>
 >
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=not-mubeen-shahid&label=Profile%20views&color=0e75b6&style=flat" alt="not-mubeen-shahid" /> </p>
 
